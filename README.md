@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="mybanner.png" alt="banner" width="100%">
 
 <!--
 **bipulsinghaniya/bipulsinghaniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
