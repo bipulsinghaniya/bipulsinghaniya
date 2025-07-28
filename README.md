@@ -1,7 +1,6 @@
 <img src="mybanner.png" alt="banner" width="100%">
 
-<!--
-**bipulsinghaniya/bipulsinghaniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 I'm a passionate developer always looking to learn and grow. Here's a little about me:
 
@@ -54,6 +53,7 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
 
 ## 🧠 LeetCode Stats
 
+<!--
 <table>
   <tr>
     <td>
@@ -65,6 +65,23 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
       <img src="https://media.licdn.com/dms/image/v2/D4E22AQFECzlsktkisQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1715583200808?e=2147483647&v=beta&t=Cd_yU9bEHjysx2uv9VVvDLRRHXWcXSFbrCfVf55yhGc" width="200" alt="LinkedIn Achievement" /><br>
         </tr>
 </table>
+-->
+
+
+
+-->
+<table>
+  <tr>
+    <td>
+      <a href="https://leetcode.com/u/Bipul_Singhaniya/">
+        <img src="https://leetcard.jacoblin.cool/Bipul_Singhaniya?theme=light&animation=true" alt="LeetCode Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://media.licdn.com/dms/image/v2/D4E22AQFECzlsktkisQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1715583200808?e=2147483647&v=beta&t=Cd_yU9bEHjysx2uv9VVvDLRRHXWcXSFbrCfVf55yhGc" width="200" alt="LinkedIn Achievement" /><br>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -74,7 +91,7 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
 
 
 
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -85,4 +102,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
 -->
