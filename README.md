@@ -31,13 +31,14 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
 
 ## 📈 GitHub Stats
 
+<!--
 ![Ojaswi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojaswi1234&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ojaswi1234&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ojaswi1234&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ojaswi1234&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 // bipul checking
+-->
+
 <p align="center">
   <a href="https://github.com/bipulsinghaniya" title="Check out my GitHub profile!">
     <img 
@@ -76,6 +77,8 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
 
 -->
 
+
+<!--
 <p align="center">
   <a href="https://github.com/bipulsinghaniya" title="Check out my GitHub profile!">
     <img 
@@ -88,7 +91,7 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bipulsinghaniya&theme=react-dark&area=true&hide_border=true" />
 </p>
-
+-->
 
 
 ## 🧠 LeetCode Stats
@@ -109,7 +112,7 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
 
 
 
--->
+
 <table>
   <tr>
     <td>
@@ -154,4 +157,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--->
+
