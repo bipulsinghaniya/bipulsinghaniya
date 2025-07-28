@@ -127,6 +127,14 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
 
 
 
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bipul-singhaniya/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Bipul_Singhaniya-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Bipul_Singhaniya/)
+
+![GitHub Developer Program Member](https://img.shields.io/badge/GitHub%20Developer%20Program-Member-blue?logo=github)
+
+Thanks for visiting my profile, and feel free to reach out if you want to connect!
 
 
 
