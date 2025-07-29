@@ -60,8 +60,8 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bipulsinghaniya&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🔥 GitHub Activity Graph
 <!--
+## 🔥 GitHub Activity Graph
 <p align="center">
   <a href="https://github.com/Ojaswi1234" title="Check out my GitHub profile!">
     <img 
