@@ -96,21 +96,6 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
 
 ## 🧠 LeetCode Stats
 
-<!--
-<table>
-  <tr>
-    <td>
-      <a href="https://leetcode.com/ojaswideep2020">
-        <img src="https://leetcard.jacoblin.cool/ojaswideep2020?theme=light&animation=true" alt="LeetCode Stats" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D4E22AQFECzlsktkisQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1715583200808?e=2147483647&v=beta&t=Cd_yU9bEHjysx2uv9VVvDLRRHXWcXSFbrCfVf55yhGc" width="200" alt="LinkedIn Achievement" /><br>
-        </tr>
-</table>
--->
-
-
 
 
 <table>
