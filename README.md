@@ -122,7 +122,7 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/singhaniyabipul9)
 ![GitHub Developer Program Member](https://img.shields.io/badge/GitHub%20Developer%20Program-Member-blue?logo=github)
 
-Thank you for visiting my profile, and feel free to reach out if you want to connect!
+Thank you for visiting my profile. Feel free to reach out if you want to connect!
 
 
 
