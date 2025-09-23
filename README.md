@@ -8,7 +8,6 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
 - 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate
 - 💬 Ask me about Full Stack Web Development
-
 ## 🛠️ Technologies & Tools
 
 
