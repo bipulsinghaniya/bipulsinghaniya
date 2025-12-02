@@ -154,8 +154,27 @@ username=ojaswi1234&show_icons=true&theme=radical)
 [![GeeksforGeeks](https://img.shields.io/badge/GFG-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/singhaniyos0x/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/singhaniyabipul9)
 ![GitHub Developer Program Member](https://img.shields.io/badge/GitHub%20Developer%20Program-Member-blue?logo=github)
--->
 Thank you for visiting my profile. Feel free to reach out if you want to connect!
+-->
+
+## ❤️ Support My Work
+
+<p align="center">
+  <a href="https://github.com/Bipul-Singhaniya">
+    <img src="https://img.shields.io/github/followers/Bipul-Singhaniya?label=Follow&style=social" alt="GitHub Follow" />
+  </a>
+</p>
+
+<p align="center">
+  ⭐ If you like my projects, don’t forget to **star** them — it really motivates me to build more!
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/awesome-animated-waves/main/waves.svg" alt="waves" />
+</p>
+
 
 
 
