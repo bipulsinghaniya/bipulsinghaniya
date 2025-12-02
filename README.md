@@ -81,7 +81,9 @@ username=ojaswi1234&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bipulsinghaniya&theme=radical)
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=bipulsinghaniya&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 <!--
 ## 🔥 GitHub Activity Graph
