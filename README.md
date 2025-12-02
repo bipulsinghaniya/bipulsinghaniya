@@ -11,6 +11,8 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
 ## 🛠️ Technologies & Tools
 <p align="left">
   <!-- MERN + JS/TS -->
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=javascript" />
   <img src="https://skillicons.dev/icons?i=typescript" />
   <img src="https://skillicons.dev/icons?i=react" />
@@ -19,12 +21,19 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=express" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongoose" />
+
+  <!-- Others -->
   <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=flutter" />
   <img src="https://skillicons.dev/icons?i=cpp" />
-  <!-- DSA (custom icon since skillicons has no DSA icon) -->
-  <!-- <img src="https://img.icons8.com/?size=100&id=11785&format=png&color=000000" title="DSA" /> -->
+
+  <!-- DSA custom icon -->
+  <img src="https://img.icons8.com/?size=100&id=11785&format=png&color=000000" title="DSA" />
 </p>
+
 
 
 <!--
