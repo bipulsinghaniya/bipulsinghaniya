@@ -10,27 +10,22 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
 - 💬 Ask me about Full Stack Web Development
 ## 🛠️ Technologies & Tools
 <p align="left">
-  <!-- MERN + JS/TS -->
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  <img src="https://skillicons.dev/icons?i=typescript" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=redux" />
-  <img src="https://skillicons.dev/icons?i=nextjs" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=express" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=mongoose" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=flutter" />
+  <img src="https://skillicons.dev/icons?i=html" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=css" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=javascript" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=typescript" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=react" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=redux" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=express" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=mongoose" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=git" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=github" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=flutter" style="margin-right:10px;" />
   <img src="https://skillicons.dev/icons?i=cpp" />
-
-  <!-- DSA custom icon 
-  <img src="https://img.icons8.com/?size=100&id=11785&format=png&color=000000" title="DSA" />
-  -->
 </p>
 
 
