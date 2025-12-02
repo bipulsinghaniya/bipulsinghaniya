@@ -158,14 +158,15 @@ Thank you for visiting my profile. Feel free to reach out if you want to connect
 -->
 
 ## ⚡ Fuel the Creativity
+
 <p align="center">
-  <a href="https://github.com/Bipul-Singhaniya">
-    <img src="https://img.shields.io/github/followers/Bipul-Singhaniya?label=Follow&style=social" alt="GitHub Follow" />
+  <a href="https://github.com/Bipul-Singhaniya" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius:8px;" />
   </a>
 </p>
 
 <p align="center">
-  ⭐ If you like my projects, don’t forget to **star** them — it really motivates me to build more!
+  If you found something helpful, consider <strong>starring</strong> the project ⭐  
 </p>
 
 ---
@@ -173,6 +174,7 @@ Thank you for visiting my profile. Feel free to reach out if you want to connect
 <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/awesome-animated-waves/main/waves.svg" alt="waves" />
 </p>
+
 
 
 
