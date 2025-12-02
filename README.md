@@ -126,26 +126,27 @@ username=ojaswi1234&show_icons=true&theme=radical)
 <p align="left">
 
   <a href="https://www.linkedin.com/in/bipul-singhaniya/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right:10px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right:10px; border-radius:8px;" />
   </a>
 
   <a href="mailto:singhaniyabipul9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-right:10px;" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-right:10px; border-radius:8px;" />
   </a>
 
   <a href="https://leetcode.com/u/Bipul_Singhaniya/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" style="margin-right:10px;" />
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" style="margin-right:10px; border-radius:8px;" />
   </a>
 
   <a href="https://www.hackerrank.com/profile/singhaniyabipul9" target="_blank">
-    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" style="margin-right:10px;" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" style="margin-right:10px; border-radius:8px;" />
   </a>
 
   <a href="https://www.facebook.com/profile.php?id=100089244485453" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="border-radius:8px;" />
   </a>
 
 </p>
+
 
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bipul-singhaniya/)
