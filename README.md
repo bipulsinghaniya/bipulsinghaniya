@@ -157,8 +157,7 @@ username=ojaswi1234&show_icons=true&theme=radical)
 Thank you for visiting my profile. Feel free to reach out if you want to connect!
 -->
 
-## ❤️ Support My Work
-
+## ⚡ Fuel the Creativity
 <p align="center">
   <a href="https://github.com/Bipul-Singhaniya">
     <img src="https://img.shields.io/github/followers/Bipul-Singhaniya?label=Follow&style=social" alt="GitHub Follow" />
