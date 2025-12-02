@@ -123,30 +123,39 @@ username=ojaswi1234&show_icons=true&theme=radical)
 
 
 ## 🔗 Connect with Me
+<p align="left">
 
+  <a href="https://www.linkedin.com/in/bipul-singhaniya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right:10px;" />
+  </a>
+
+  <a href="mailto:singhaniyabipul9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-right:10px;" />
+  </a>
+
+  <a href="https://leetcode.com/u/Bipul_Singhaniya/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" style="margin-right:10px;" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/singhaniyabipul9" target="_blank">
+    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" style="margin-right:10px;" />
+  </a>
+
+  <a href="https://www.facebook.com/profile.php?id=100089244485453" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+</p>
+
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bipul-singhaniya/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Bipul_Singhaniya-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Bipul_Singhaniya/)
 [![GeeksforGeeks](https://img.shields.io/badge/GFG-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/singhaniyos0x/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/singhaniyabipul9)
 ![GitHub Developer Program Member](https://img.shields.io/badge/GitHub%20Developer%20Program-Member-blue?logo=github)
-
+-->
 Thank you for visiting my profile. Feel free to reach out if you want to connect!
 
 
-
-
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
