@@ -20,7 +20,7 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
   <img src="https://skillicons.dev/icons?i=nodejs" style="margin-right:10px;" />
   <img src="https://skillicons.dev/icons?i=express" style="margin-right:10px;" />
   <img src="https://skillicons.dev/icons?i=mongodb" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=mongoose" style="margin-right:10px;" />
+  <!-- <img src="https://skillicons.dev/icons?i=mongoose" style="margin-right:10px;" /> -->
   <img src="https://skillicons.dev/icons?i=mysql" style="margin-right:10px;" />
   <img src="https://skillicons.dev/icons?i=git" style="margin-right:10px;" />
   <img src="https://skillicons.dev/icons?i=github" style="margin-right:10px;" />
