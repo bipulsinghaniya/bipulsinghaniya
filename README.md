@@ -105,15 +105,6 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
 </p>
 
 
-
-## ⚡ Fuel the Creativity
-
-<p align="center">
-  <a href="https://github.com/Bipul-Singhaniya" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius:8px;" />
-  </a>
-</p>
-
 <p align="center">
   If you found something helpful, consider <strong>starring</strong> the project ⭐  
 </p>
