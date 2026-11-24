@@ -90,12 +90,4 @@ I'm a Full Stack Developer exploring AI/ML and building intelligent web solution
   <a href="mailto:singhaniyabipul9@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" />
   </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/profile/singhaniyabipul9" target="_blank">
-    <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="55" />
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100089244485453" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="55" />
-  </a>
 </p>
