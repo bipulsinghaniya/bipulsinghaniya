@@ -57,35 +57,53 @@ I'm a Full Stack Developer exploring AI/ML and building intelligent web solution
   />
 </p>
 
-## 🧠 LeetCode Stats
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <!-- Left Side: LeetCode Stats -->
+    <td width="75%" valign="middle">
+      <h2>🧠 LeetCode Stats</h2>
       <a href="https://leetcode.com/u/Bipul_Singhaniya/">
-        <img src="https://leetcard.jacoblin.cool/Bipul_Singhaniya?theme=light&animation=true" alt="LeetCode Stats" />
+        <img
+          src="https://leetcard.jacoblin.cool/Bipul_Singhaniya?theme=light&animation=true"
+          width="100%"
+          alt="LeetCode Stats"
+        />
+      </a>
+    </td>
+
+    <!-- Right Side: Connect with Me -->
+    <td width="25%" align="center" valign="middle">
+      <h2>🔗 Connect with Me</h2>
+
+      <a href="https://github.com/bipulsinghaniya">
+        <img src="https://skillicons.dev/icons?i=github" width="48" />
+      </a>
+      <br/><br/>
+
+      <a href="https://www.linkedin.com/in/bipul-singhaniya/">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+      </a>
+      <br/><br/>
+
+      <a href="mailto:singhaniyabipul9@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" />
+      </a>
+      <br/><br/>
+
+      <a href="https://leetcode.com/u/Bipul_Singhaniya/">
+        <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" />
+      </a>
+      <br/><br/>
+
+      <a href="https://www.hackerrank.com/profile/singhaniyabipul9">
+        <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="48" />
+      </a>
+      <br/><br/>
+
+      <a href="https://www.facebook.com/profile.php?id=100089244485453">
+        <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" />
       </a>
     </td>
   </tr>
 </table>
-
-
-## 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/bipulsinghaniya" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="55" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/bipul-singhaniya/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Bipul_Singhaniya/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55" />
-  </a>
-  &nbsp;
-  <a href="mailto:singhaniyabipul9@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" />
-  </a>
-</p>
