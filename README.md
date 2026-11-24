@@ -33,18 +33,18 @@ I'm a Full Stack Developer exploring AI/ML and building intelligent web solution
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/bipulsinghaniya" title="Check out my GitHub profile!">
-    <img 
-      src="https://komarev.com/ghpvc/?username=bipulsinghaniya&label=👁️+Profile+Views&color=brightgreen&style=for-the-badge" 
-      alt="Profile Views" 
-    />
-  </a>
-</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bipulsinghaniya&theme=react-dark&area=true&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=bipulsinghaniya&show_icons=true&theme=radical"
+    width="49%"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=bipulsinghaniya&theme=radical&hide_current_streak=true"
+    width="49%"
+  />
 </p>
+
 
 ![Bipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=bipulsinghaniya&show_icons=true&theme=radical)
 
