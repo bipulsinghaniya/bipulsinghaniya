@@ -5,9 +5,9 @@
 I'm a passionate developer always looking to learn and grow. Here's a little about me:
 
 ## 🚀 About Me
-- 🌱 I’m currently learning Backend Development
-- 👯 I’m looking to collaborate
-- 💬 Ask me about Full Stack Web Development
+- 💻 Building scalable applications with Full Stack Development
+- 🧠 Exploring Artificial Intelligence and Machine Learning
+- 💬 Interested in Federated Learning & AI Research
 ## 🛠️ Technologies & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" style="margin-right:10px;" />
