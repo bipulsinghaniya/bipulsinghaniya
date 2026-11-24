@@ -105,14 +105,6 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
 </p>
 
 
-<p align="center">
-  If you found something helpful, consider <strong>starring</strong> the project ⭐  
-</p>
-
----
-
-
-
 
 
 
