@@ -1,14 +1,16 @@
+
 <img src="mybanner_ai_ml (1).png" alt="banner" width="100%">
 
-
-
-I'm a passionate developer always looking to learn and grow. Here's a little about me:
+I'm a Full Stack Developer exploring AI/ML and building intelligent web solutions.
 
 ## 🚀 About Me
+
 - 💻 Building scalable applications with Full Stack Development
 - 🧠 Exploring Artificial Intelligence and Machine Learning
-- 💬 Interested in Federated Learning & AI Research
+- 🔬 Interested in Federated Learning & AI Research
+
 ## 🛠️ Technologies & Tools
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" style="margin-right:10px;" />
   <img src="https://skillicons.dev/icons?i=css" style="margin-right:10px;" />
@@ -20,7 +22,6 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
   <img src="https://skillicons.dev/icons?i=nodejs" style="margin-right:10px;" />
   <img src="https://skillicons.dev/icons?i=express" style="margin-right:10px;" />
   <img src="https://skillicons.dev/icons?i=mongodb" style="margin-right:10px;" />
-  <!-- <img src="https://skillicons.dev/icons?i=mongoose" style="margin-right:10px;" /> -->
   <img src="https://skillicons.dev/icons?i=mysql" style="margin-right:10px;" />
   <img src="https://skillicons.dev/icons?i=git" style="margin-right:10px;" />
   <img src="https://skillicons.dev/icons?i=github" style="margin-right:10px;" />
@@ -28,15 +29,9 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
   <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
-
-
-
-
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 📈 GitHub Stats
-
 
 <p align="center">
   <a href="https://github.com/bipulsinghaniya" title="Check out my GitHub profile!">
@@ -52,17 +47,11 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
 </p>
 
 ![Bipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=bipulsinghaniya&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bipulsinghaniya&layout=compact&theme=radical)
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bipulsinghaniya&theme=radical)
-
-
-
-
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bipulsinghaniya&theme=radical&hide_current_streak=true)
 
 ## 🧠 LeetCode Stats
+
 <table>
   <tr>
     <td>
@@ -73,10 +62,8 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
   </tr>
 </table>
 
-
-
-
 ## 🔗 Connect with Me
+
 <p align="left">
 
   <a href="https://www.linkedin.com/in/bipul-singhaniya/" target="_blank">
@@ -100,8 +87,3 @@ I'm a passionate developer always looking to learn and grow. Here's a little abo
   </a>
 
 </p>
-
-
-
-
-
