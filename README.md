@@ -35,84 +35,35 @@ I'm a Full Stack Developer exploring AI/ML and building intelligent web solution
 
 <p align="center">
   <a href="https://github.com/bipulsinghaniya">
-    <img
-      src="https://komarev.com/ghpvc/?username=bipulsinghaniya&label=👁️+Profile+Views&color=brightgreen&style=for-the-badge"
-      alt="Profile Views"
-    />
+    <img src="https://komarev.com/ghpvc/?username=bipulsinghaniya&label=👁️+Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=bipulsinghaniya&theme=react-dark&area=true&hide_border=true"
-    width="100%"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bipulsinghaniya&theme=react-dark&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bipulsinghaniya&show_icons=true&theme=radical"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=bipulsinghaniya&theme=radical&hide_current_streak=true"
-    width="49%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bipulsinghaniya&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bipulsinghaniya&theme=radical&hide_current_streak=true" width="49%" />
 </p>
 
-<!-- LeetCode and Connect Section -->
-
 <table width="100%">
-  <tr>
-    <td width="75%" valign="top">
-      <h2>🧠 LeetCode Stats</h2>
-      <a href="https://leetcode.com/u/Bipul_Singhaniya/">
-        <img
-          src="https://leetcard.jacoblin.cool/Bipul_Singhaniya?theme=light&animation=true"
-          width="100%"
-          alt="LeetCode Stats"
-        />
-      </a>
-    </td>
-
-    <td width="25%" align="center" valign="middle">
-      <h2>🔗 Connect with Me</h2>
-
-      <p>
-        <a href="https://github.com/bipulsinghaniya">
-          <img src="https://skillicons.dev/icons?i=github" width="45" />
-        </a>
-      </p>
-
-      <p>
-        <a href="https://www.linkedin.com/in/bipul-singhaniya/">
-          <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-        </a>
-      </p>
-
-      <p>
-        <a href="mailto:singhaniyabipul9@gmail.com">
-          <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" />
-        </a>
-      </p>
-
-      <p>
-        <a href="https://leetcode.com/u/Bipul_Singhaniya/">
-          <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" />
-        </a>
-      </p>
-
-      <p>
-        <a href="https://www.hackerrank.com/profile/singhaniyabipul9">
-          <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="45" />
-        </a>
-      </p>
-
-      <p>
-        <a href="https://www.facebook.com/profile.php?id=100089244485453">
-          <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" />
-        </a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="70%" valign="middle" align="center">
+<h2>🧠 LeetCode Stats</h2>
+<a href="https://leetcode.com/u/Bipul_Singhaniya/"><img src="https://leetcard.jacoblin.cool/Bipul_Singhaniya?theme=light&animation=true" alt="LeetCode Stats" width="100%" /></a>
+</td>
+<td width="30%" valign="middle" align="center">
+<h2>🔗 Connect with Me</h2>
+<a href="https://github.com/bipulsinghaniya"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/bipul-singhaniya/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" /></a>
+<br/>
+<a href="mailto:singhaniyabipul9@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Gmail" /></a>
+<a href="https://leetcode.com/u/Bipul_Singhaniya/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" alt="LeetCode" /></a>
+<br/>
+<a href="https://www.hackerrank.com/profile/singhaniyabipul9"><img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="45" alt="HackerRank" /></a>
+<a href="https://www.facebook.com/profile.php?id=100089244485453"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" alt="Facebook" /></a>
+</td>
+</tr>
 </table>
