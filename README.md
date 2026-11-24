@@ -12,24 +12,24 @@ I'm a Full Stack Developer exploring AI/ML and building intelligent web solution
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=css" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=javascript" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=typescript" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=react" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=redux" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=express" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=git" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=github" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=flutter" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=typescript" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=flutter" />
   <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 ## 📈 GitHub Stats
 
@@ -43,7 +43,10 @@ I'm a Full Stack Developer exploring AI/ML and building intelligent web solution
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bipulsinghaniya&theme=react-dark&area=true&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bipulsinghaniya&theme=react-dark&area=true&hide_border=true"
+    width="100%"
+  />
 </p>
 
 <p align="center">
@@ -57,11 +60,11 @@ I'm a Full Stack Developer exploring AI/ML and building intelligent web solution
   />
 </p>
 
-<!-- LeetCode Stats and Connect With Me -->
+<!-- LeetCode and Connect Section -->
 
 <table width="100%">
   <tr>
-    <td width="75%" valign="middle">
+    <td width="75%" valign="top">
       <h2>🧠 LeetCode Stats</h2>
       <a href="https://leetcode.com/u/Bipul_Singhaniya/">
         <img
@@ -75,34 +78,41 @@ I'm a Full Stack Developer exploring AI/ML and building intelligent web solution
     <td width="25%" align="center" valign="middle">
       <h2>🔗 Connect with Me</h2>
 
-      <a href="https://github.com/bipulsinghaniya" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github" width="48" />
-      </a>
-      <br/><br/>
+      <p>
+        <a href="https://github.com/bipulsinghaniya">
+          <img src="https://skillicons.dev/icons?i=github" width="45" />
+        </a>
+      </p>
 
-      <a href="https://www.linkedin.com/in/bipul-singhaniya/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
-      </a>
-      <br/><br/>
+      <p>
+        <a href="https://www.linkedin.com/in/bipul-singhaniya/">
+          <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+        </a>
+      </p>
 
-      <a href="mailto:singhaniyabipul9@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" />
-      </a>
-      <br/><br/>
+      <p>
+        <a href="mailto:singhaniyabipul9@gmail.com">
+          <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" />
+        </a>
+      </p>
 
-      <a href="https://leetcode.com/u/Bipul_Singhaniya/" target="_blank">
-        <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" />
-      </a>
-      <br/><br/>
+      <p>
+        <a href="https://leetcode.com/u/Bipul_Singhaniya/">
+          <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" />
+        </a>
+      </p>
 
-      <a href="https://www.hackerrank.com/profile/singhaniyabipul9" target="_blank">
-        <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="48" />
-      </a>
-      <br/><br/>
+      <p>
+        <a href="https://www.hackerrank.com/profile/singhaniyabipul9">
+          <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="45" />
+        </a>
+      </p>
 
-      <a href="https://www.facebook.com/profile.php?id=100089244485453" target="_blank">
-        <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" />
-      </a>
+      <p>
+        <a href="https://www.facebook.com/profile.php?id=100089244485453">
+          <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
