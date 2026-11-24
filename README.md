@@ -58,12 +58,8 @@ I'm a Full Stack Developer exploring AI/ML and building intelligent web solution
 <h2>🔗 Connect with Me</h2>
 <a href="https://github.com/bipulsinghaniya"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/bipul-singhaniya/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" /></a>
-<br/>
 <a href="mailto:singhaniyabipul9@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Gmail" /></a>
 <a href="https://leetcode.com/u/Bipul_Singhaniya/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" alt="LeetCode" /></a>
-<br/>
-<a href="https://www.hackerrank.com/profile/singhaniyabipul9"><img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="45" alt="HackerRank" /></a>
-<a href="https://www.facebook.com/profile.php?id=100089244485453"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" alt="Facebook" /></a>
 </td>
 </tr>
 </table>
