@@ -71,26 +71,31 @@ I'm a Full Stack Developer exploring AI/ML and building intelligent web solution
 
 ## 🔗 Connect with Me
 
+
+## 🔗 Connect with Me
+
 <p align="left">
-
+  <a href="https://github.com/bipulsinghaniya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="55" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/bipul-singhaniya/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right:10px; border-radius:8px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
   </a>
-
-  <a href="mailto:singhaniyabipul9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-right:10px; border-radius:8px;" />
-  </a>
-
+  &nbsp;
   <a href="https://leetcode.com/u/Bipul_Singhaniya/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" style="margin-right:10px; border-radius:8px;" />
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55" />
   </a>
-
+  &nbsp;
+  <a href="mailto:singhaniyabipul9@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" />
+  </a>
+  &nbsp;
   <a href="https://www.hackerrank.com/profile/singhaniyabipul9" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" style="margin-right:10px; border-radius:8px;" />
+    <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="55" />
   </a>
-
+  &nbsp;
   <a href="https://www.facebook.com/profile.php?id=100089244485453" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="border-radius:8px;" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="55" />
   </a>
-
 </p>
