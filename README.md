@@ -34,10 +34,10 @@ I'm a Full Stack Developer exploring AI/ML and building intelligent web solution
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/bipulsinghaniya" title="Check out my GitHub profile!">
-    <img 
-      src="https://komarev.com/ghpvc/?username=bipulsinghaniya&label=👁️+Profile+Views&color=brightgreen&style=for-the-badge" 
-      alt="Profile Views" 
+  <a href="https://github.com/bipulsinghaniya">
+    <img
+      src="https://komarev.com/ghpvc/?username=bipulsinghaniya&label=👁️+Profile+Views&color=brightgreen&style=for-the-badge"
+      alt="Profile Views"
     />
   </a>
 </p>
@@ -47,21 +47,20 @@ I'm a Full Stack Developer exploring AI/ML and building intelligent web solution
 </p>
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-stats.vercel.app/api?username=bipulsinghaniya&show_icons=true&theme=radical"
     width="49%"
   />
-  <img 
+  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=bipulsinghaniya&theme=radical&hide_current_streak=true"
     width="49%"
   />
 </p>
 
-
+<!-- LeetCode Stats and Connect With Me -->
 
 <table width="100%">
   <tr>
-    <!-- Left Side: LeetCode Stats -->
     <td width="75%" valign="middle">
       <h2>🧠 LeetCode Stats</h2>
       <a href="https://leetcode.com/u/Bipul_Singhaniya/">
@@ -73,16 +72,15 @@ I'm a Full Stack Developer exploring AI/ML and building intelligent web solution
       </a>
     </td>
 
-    <!-- Right Side: Connect with Me -->
     <td width="25%" align="center" valign="middle">
       <h2>🔗 Connect with Me</h2>
 
-      <a href="https://github.com/bipulsinghaniya">
+      <a href="https://github.com/bipulsinghaniya" target="_blank">
         <img src="https://skillicons.dev/icons?i=github" width="48" />
       </a>
       <br/><br/>
 
-      <a href="https://www.linkedin.com/in/bipul-singhaniya/">
+      <a href="https://www.linkedin.com/in/bipul-singhaniya/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
       </a>
       <br/><br/>
@@ -92,17 +90,17 @@ I'm a Full Stack Developer exploring AI/ML and building intelligent web solution
       </a>
       <br/><br/>
 
-      <a href="https://leetcode.com/u/Bipul_Singhaniya/">
+      <a href="https://leetcode.com/u/Bipul_Singhaniya/" target="_blank">
         <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" />
       </a>
       <br/><br/>
 
-      <a href="https://www.hackerrank.com/profile/singhaniyabipul9">
+      <a href="https://www.hackerrank.com/profile/singhaniyabipul9" target="_blank">
         <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="48" />
       </a>
       <br/><br/>
 
-      <a href="https://www.facebook.com/profile.php?id=100089244485453">
+      <a href="https://www.facebook.com/profile.php?id=100089244485453" target="_blank">
         <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" />
       </a>
     </td>
