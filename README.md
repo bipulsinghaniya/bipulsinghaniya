@@ -69,8 +69,6 @@ I'm a Full Stack Developer exploring AI/ML and building intelligent web solution
   </tr>
 </table>
 
-## 🔗 Connect with Me
-
 
 ## 🔗 Connect with Me
 
